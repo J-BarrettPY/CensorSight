@@ -2,6 +2,8 @@
 
 CensorSight is a collection of Python scripts that leverage computer vision techniques to provide various levels of privacy by censoring or blurring faces in a real-time webcam feed. These scripts use the popular computer vision library OpenCV and the dlib library for face detection and facial landmark prediction.
 
+You MUST download "Face Landmarks" release and place shape_predictor_68_face_landmarks.dat in the same directory!
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
